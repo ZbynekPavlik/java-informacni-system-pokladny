@@ -1,0 +1,5 @@
+# Ignorovat složku .vscode
+.vscode/
+
+# Ignorovat složku bin
+bin/
